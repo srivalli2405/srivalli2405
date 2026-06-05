@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-6c2c4f89-6d7d-4d6f-a9f0-c37d4f07f5c1.gif" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=BigBlueTermPlus+Nerd+Font+Mono&size=20&pause=5000&color=FF6B00&background=000000&center=true&vCenter=true&width=650&lines=Welcome+to+my+Repository;AI+%7C+ML+Engineer+%7C+Full+Stack+Developer;Code.+Create.+Innovate." alt="Typing SVG" />
