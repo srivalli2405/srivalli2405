@@ -76,18 +76,6 @@
 
 ---
 
-## 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=srivalli2405&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivalli2405&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srivalli2405&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 📬 Contact Me
 
